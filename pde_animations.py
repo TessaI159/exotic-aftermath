@@ -525,7 +525,7 @@ def build_all(selected):
                 ),
                 x_core,
                 t_core,
-                "Wave Equation (ψ = 3g)",
+                "Wave Equation (ψ = 3ɸ)",
                 p,
                 z_max=1.9,
             ),
